@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there! I am Matt Knowlton.</h1>
+<h1 align="center">👋 Hey there! I am toastloop.</h1>
 
 I'm  a CS Sophmore at UTEP and a free software supporter. I'm trying to learn Rust and make great open source linux software. I love tiling window managers, and customizing everything. I have a passion for problem solving, and coming up with creative solutions.
 
