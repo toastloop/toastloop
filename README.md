@@ -13,5 +13,3 @@ I'm  a CS Sophmore at UTEP and a free software supporter. I'm trying to learn Ru
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=toastloop&theme=gotham" alt="Matt Knowlton's GitHub stats"></a> | <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=toastloop&theme=gotham" alt="Matt Knowlton's Streak"/></a> |
 | ------------- | ------------- |
-
-(README inspired by the [README](https://github.com/linuxdotexe/linuxdotexe/blob/master/README.md) from [Sai Nivas](https://github.com/linuxdotexe))
