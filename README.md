@@ -7,6 +7,7 @@ I'm  a CS Sophmore at UTEP and a free software supporter. I'm trying to learn Ru
 
 ## 🤺 Currently I am
 - 🌐 trying to learn Rust
+- 🖼️ working on LeftWM themes
 
 ## 📈 Some cool stats
 
