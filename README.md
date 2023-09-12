@@ -9,5 +9,5 @@ I'm  a CS Junior at UTEP and a free software supporter. I'm trying to learn Rust
 
 ## 📈 Some cool stats
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=toastloop&theme=gotham" alt="Matt Knowlton's GitHub stats"></a> |
-| ------------- |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=toastloop&theme=gotham" alt="Matt Knowlton's GitHub stats"></a> | [![GitHub Streak](https://streak-stats.demolab.com?user=toastloop)](https://git.io/streak-stats) |
+| ------------- | ------------- |
